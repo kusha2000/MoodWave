@@ -3,14 +3,17 @@ An Online Platform for Emotion-based Music
 
 Our university subject module culminated in the development of a comprehensive Music Emotion Analysis Web System, crafted using HTML, CSS, JavaScript, PHP, and MySQL. This dynamic platform seamlessly integrates features such as user authentication with sign-in and sign-up functionalities. Creators are empowered to upload their music for analysis, enabling them to gauge audience sentiment through comments and emotional feedback provided by listeners. In turn, listeners can explore and engage with these tracks, expressing their emotions while listening and contributing to the creator's understanding of their audience's reception. Additionally, the system facilitates transactions, allowing creators to monetize their content based on listener interactions, with listeners able to withdraw funds based on their emotional engagement. With its user-centric design and robust functionality, this web system serves as a versatile tool for musicians and listeners alike, fostering meaningful interactions and insights within the music community.
 
-Technologies <br> ------------ <br>
-Frontend - HTML, CSS, and JavaScript <br>
-Backend - PHP and JavaScript <br>
-Database - MySQL <br>
+<h3><u>Technologies Used</u></h3>
+<ul>
+🔹 Frontend - HTML, CSS, and JavaScript <br>
+🔹 Backend - PHP and JavaScript <br>
+🔹 Database - MySQL <br>
+</ul>
 
 <h2>This is the Full Demo of the project</h2><br><br>
 
-![Demo low](https://github.com/kusha2000/moodWaves/assets/127003267/43a96f69-65ed-481e-84c8-f845b9b01d99)
+https://github.com/user-attachments/assets/ee8a3b2a-bea9-48a9-b82a-44e71e597197
+
 
 <br><br>
 <h2>This is the screenshots of the system</h2><br><br>
